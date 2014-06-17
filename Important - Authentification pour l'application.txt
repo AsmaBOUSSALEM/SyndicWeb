@@ -1,0 +1,7 @@
+Pout utiliser notre application il faut obligatoirement être connecter.
+Pour se connecter autant que syndic (administrateur) : 
+•	Utilisateur : admin
+•	Mot de passe : admin
+Pour se connecter autant que résident (utilisateur normale) : 
+•	Utilisateur : fsa
+•	Mot de passe : fsa

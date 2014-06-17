@@ -1,0 +1,6 @@
+Créer une base de données nommé pfe_syndic
+Les paramètres de connexion à la base de donnée sont ('localhost','root','') si votre configuration est différente 
+veuillez modifier fichier config.php dans le dossier (application\config)
+
+
+
